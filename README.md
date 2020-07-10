@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Milad Hasanlo.
 
-I enjoy building software systems and creating novel technologies to solve the problems I encounter. 
+I enjoy building software systems and creating technologies to solve the problems I encounter. 
 I'm recognized in the area of software development, Technical leadership, agile methods, and programming languages. 
 
 📫 How to reach me:
