@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi there! Nice to see you <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 My name is Milad Hasanlo.
 
 I enjoy building software systems and creating technologies to solve the problems I encounter. 
 I'm recognized in the area of software development, Technical leadership, agile methods, and programming languages. 
 
-📫 How to reach me:
-
-  My personal website: https://hasanlo.com
-
-  Twitter: https://twitter.com/HasanloMilad
-
+📫 How to reach me:<br>
+  My personal website: https://hasanlo.com <br>
+  Twitter: https://twitter.com/HasanloEn <br>
   Linkdin: https://www.linkedin.com/in/milad-hasanlo/
 
 <!--
