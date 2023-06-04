@@ -1,8 +1,12 @@
 ### Hi there! Nice to see you <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-My name is Milad Hasanlo.
+My name is Milad Hasanlo,  
+and I am a software developer and technology enthusiast.  
+I love exploring the digital world and solving complex problems.  
+Creating elegant and efficient solutions brings me great satisfaction.   
+Additionally, I enjoy learning new programming languages and frameworks to expand my skill set.  
+In my free time, I like experimenting with coding projects and participating in tech communities to stay up-to-date with the latest trends.  
+I am passionate about technology and its potential to impact society positively.  
 
-I enjoy building software systems and creating technologies to solve the problems I encounter. 
-I'm recognized in the area of software development, Technical leadership, agile methods, and programming languages. 
 
 📫 How to reach me:<br>
   My personal website: https://hasanlo.com <br>
